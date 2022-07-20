@@ -1,4 +1,4 @@
-# Install script for directory: /home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src
+# Install script for directory: /home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

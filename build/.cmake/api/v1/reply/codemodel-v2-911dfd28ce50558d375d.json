@@ -55,14 +55,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "bin_main::@145eef247bfb46b6828c",
-					"jsonFile" : "target-bin_main-Debug-979c7044cbe8d29c8699.json",
+					"jsonFile" : "target-bin_main-Debug-e16cb11bac2f363f057b.json",
 					"name" : "bin_main",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "image::@145eef247bfb46b6828c",
-					"jsonFile" : "target-image-Debug-e702fae1319315278888.json",
+					"jsonFile" : "target-image-Debug-6851b401b87691e781e3.json",
 					"name" : "image",
 					"projectIndex" : 0
 				}
@@ -72,8 +72,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build",
-		"source" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc"
+		"build" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/build",
+		"source" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc"
 	},
 	"version" : 
 	{

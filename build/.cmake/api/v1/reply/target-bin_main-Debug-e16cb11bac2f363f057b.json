@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/bin/bin_main"
+			"path" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/bin/bin_main"
 		}
 	],
 	"backtrace" : 1,
@@ -63,7 +63,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src"
+					"path" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/src"
 				}
 			],
 			"language" : "CXX",

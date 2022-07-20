@@ -61,7 +61,7 @@ rule CXX_STATIC_LIBRARY_LINKER__image
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake -S/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc -B/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build
+  command = /usr/bin/cmake -S/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc -B/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/build
   description = Re-running CMake...
   generator = 1
 

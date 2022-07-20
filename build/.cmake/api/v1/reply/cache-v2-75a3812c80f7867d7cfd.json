@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build"
+			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -579,7 +579,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc"
+			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build"
+			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc/build"
 		},
 		{
 			"name" : "image_read_write_SOURCE_DIR",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc"
+			"value" : "/home/raj/Documents/experiments/cpp_igor_ubonn/DigImProc/DigImProc"
 		}
 	],
 	"kind" : "cache",
