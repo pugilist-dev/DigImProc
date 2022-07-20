@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build",
+  "command": "/usr/bin/clang++   -I../src  -Wall -Wextra -fPIC -g   -std=gnu++11 -o src/CMakeFiles/bin_main.dir/main.cpp.o -c /home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src/main.cpp",
+  "file": "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src/main.cpp"
+},
+
+{
+  "directory": "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/build",
+  "command": "/usr/bin/clang++   -I../src  -Wall -Wextra -fPIC -g   -std=gnu++11 -o src/CMakeFiles/image.dir/image.cpp.o -c /home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src/image.cpp",
+  "file": "/home/raj/Documents/experiments/cpp_igor_ubonn/experiments/DigImProc/src/image.cpp"
+}
+]
