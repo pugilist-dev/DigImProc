@@ -34,7 +34,6 @@ namespace irw{
 				pixels_ pixel;
 				fin >> pixel.r >> pixel.g >> pixel.b;
 				data_.push_back(pixel);
-				cout << i << endl;
 			}
 			fin.close();
 			}
@@ -54,7 +53,6 @@ namespace irw{
 			fin << max_color_ << " " << endl;
 
 			for (unsigned int i=0; i<cols_*rows_; ++i){
-				//cout << data_[i].r << " " << data_[i].g << " " << data_[i].b << endl;
 				fin << data_[i].r << " " << data_[i].g << " " << data_[i].b << " ";
 			}
 			fin.close();
