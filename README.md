@@ -1,2 +1,1 @@
 # DigImProc
-This is my personal C++ repo to perform image processing/ computer vision and 3D vision tasks. Currently only read and write has been accomplished. Futrher functionalities are being implemented. This project is still in a development phase.
